@@ -1,1 +1,1 @@
-docker run -it --rm -v $(pwd):/solana-token -v $(pwd)/solana-data:/root/.config/solana SolanaLaunchToken
+docker run -it --rm -v $(pwd):/solana-token -v $(pwd)/solana-data:/root/.config/solana solanalaunchtoken
