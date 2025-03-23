@@ -13,7 +13,7 @@ Instead of manually setting up the Dockerfile, simply clone this repo and build 
 
 ```sh
 git clone https://github.com/StephanWithPH/SolanaLaunchToken.git
-cd solana-token
+cd SolanaLaunchToken
 chmod +x run.sh
 chmod +x build.sh
 ./build.sh
