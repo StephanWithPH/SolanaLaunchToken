@@ -12,7 +12,7 @@ Docker is my favorite way to deploy pretty much anything. It’s available on al
 Instead of manually setting up the Dockerfile, simply clone this repo and build the docker container:
 
 ```sh
-git clone https://github.com/your-repo/solana-token.git
+git clone https://github.com/StephanWithPH/SolanaLaunchToken.git
 cd solana-token
 chmod +x run.sh
 chmod +x build.sh
