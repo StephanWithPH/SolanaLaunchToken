@@ -1,1 +1,1 @@
-docker build -t SolanaLaunchToken .
+docker build -t solanalaunchtoken .
